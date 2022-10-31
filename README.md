@@ -1,2 +1,2 @@
 # msancom
-MMseq2 clusters based annotation comparison tool
+MMseqs2 clusters based annotation comparison tool
